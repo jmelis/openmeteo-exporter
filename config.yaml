@@ -1,0 +1,7 @@
+# Open-Meteo Exporter Configuration
+
+# Port for Prometheus metrics endpoint
+port: 9091
+
+# Scrape interval in seconds (900 = 15 minutes)
+scrape_interval: 900
